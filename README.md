@@ -8,9 +8,12 @@ systems, and procedural generation.
 
 [<ins>CV</ins>](/assets/CV.pdf)
 
+[<ins>LinkedIn</ins>](https://www.linkedin.com/in/jonathan-karlsson-079501133/)
+
 * * *
 
 # Highlighted Projects
+<br/>
 
 [![](/assets/specialization/preview.gif)](./portfolio-specialization.html)
 
