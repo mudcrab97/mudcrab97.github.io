@@ -12,9 +12,9 @@ systems, and procedural generation.
 
 # Highlighted Projects
 
-## Procedurally Generated City
-
 [![](/assets/specialization/preview.gif)](./portfolio-specialization.html)
+
+## Procedurally Generated City
 
 A fully procedural city made as my specialization project at TGA. Among the features included are: Building and road network generation, procedural textures, and traffic AI. Made in Raylib.
 
