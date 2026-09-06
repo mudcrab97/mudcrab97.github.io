@@ -10,9 +10,6 @@ interests span the full development pipeline, with a particular
 focus on engine programming, rendering systems, gameplay
 systems, and procedural generation.
 
-- [<ins>CV</ins>](/assets/CV.pdf)
-- [<ins>LinkedIn</ins>](https://www.linkedin.com/in/jonathan-karlsson-079501133/)
-
 * * *
 
 # Highlighted Projects
