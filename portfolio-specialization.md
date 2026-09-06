@@ -112,4 +112,4 @@ The point being that there is not really an end to what we could add to the city
 
 ## The Finished City
 
-![](/assets/specialization/result.mp4)
+![](/assets/specialization/result.gif)
