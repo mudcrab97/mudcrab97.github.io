@@ -18,7 +18,7 @@ A fully procedural city made as my specialization project at TGA. Among the feat
 
 * * *
 
-{% include youtube.html id="jcXcQGhaoHM" %}
+[![](/assets/p8/preview.gif)](./portfolio-p8.html)
 
 ## City of Darkness
 
