@@ -28,7 +28,7 @@ A first person horror game made in a custom DirectX 11 engine for the eight and 
 
 * * *
 
-{% include youtube.html id="YFa4Kuo_2O0" %}
+[![](/assets/p7/preview.gif)](./portfolio-p7.html)
 
 ## Grim the Gargoyle King
 
@@ -38,12 +38,13 @@ A third person platformer made in a custom DirectX 11 engine for the seventh pro
 
 * * *
 
+[![](/assets/p6/preview.gif)](./portfolio-p6.html)
 {% include youtube.html id="KhlcLQ_UVzo" %}
 
 ## Spite: Threads of Fate
 
 An action role-playing game made in a custom DirectX 11 engine for the fifth and sixth project at TGA. I worked primarily on the graphics engine, the implementation of VFX, and the audio engine.
 
-[<ins>Read more</ins>](https://google.com)
+[<ins>Read more</ins>](./portfolio-p6.html)
 
 * * *
