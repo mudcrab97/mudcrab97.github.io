@@ -112,3 +112,5 @@ From here on there are many improvements that could be made. I could add support
 The point being that there is not really an end to what we could add to the city. What we have now is a great foundation and proof of concept.
 
 ## The Finished City
+
+![](/assets/specialization/result.mp4)
