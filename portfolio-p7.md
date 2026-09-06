@@ -7,7 +7,7 @@ layout: default
 # Grim the Gargoyle King
 *As a gargoyle brought to life, embark on a crystal hunt. Charge through the shattered castle and find enough supporters to become king.*
 
-[<ins>itch.io</ins>](https://roadkill-interactive.itch.io/grim-the-gargoyle-king)
+- [<ins>itch.io</ins>](https://roadkill-interactive.itch.io/grim-the-gargoyle-king)
 
 # Key Contributions
 

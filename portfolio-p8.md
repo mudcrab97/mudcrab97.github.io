@@ -9,7 +9,7 @@ layout: default
 
 *Can you sneak silently enough to escape?*
 
-[<ins>itch.io</ins>](https://roadkill-interactive.itch.io/city-of-darkness)
+- [<ins>itch.io</ins>](https://roadkill-interactive.itch.io/city-of-darkness)
 
 # Key Contributions
 

@@ -7,7 +7,7 @@ layout: default
 # Spite: Threads of Fate
 *As a fallen shieldmaiden denied Valhalla, you awaken in Helheim with nothing but your hammer and fury. Fight through the undead hordes in order to reweave your threads of fate!*
 
-[<ins>itch.io</ins>](https://roadkill-interactive.itch.io/spite-threads-of-fate)
+- [<ins>itch.io</ins>](https://roadkill-interactive.itch.io/spite-threads-of-fate)
 
 # Key Contributions
 
