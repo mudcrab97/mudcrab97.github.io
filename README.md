@@ -6,6 +6,8 @@ interests span the full development pipeline, with a particular
 focus on engine programming, rendering systems, gameplay
 systems, and procedural generation.
 
+[<ins>CV</ins>](/assets/CV.pdf)
+
 * * *
 
 # Highlighted Projects
