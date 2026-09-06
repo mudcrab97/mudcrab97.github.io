@@ -1,3 +1,6 @@
+
+![](/assets/p8/header.png)
+
 # City of Darkness
 *A blind monster prowls the abandoned city, standing between you and your freedom.*
 

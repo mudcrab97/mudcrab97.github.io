@@ -1,3 +1,6 @@
+
+![](/assets/p7/header.png)
+
 # Grim the Gargoyle King
 *As a gargoyle brought to life, embark on a crystal hunt. Charge through the shattered castle and find enough supporters to become king.*
 
