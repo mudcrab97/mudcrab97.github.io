@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 {% include youtube.html id="KhlcLQ_UVzo" %}
 
 # Spite: Threads of Fate

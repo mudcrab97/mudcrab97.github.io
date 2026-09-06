@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 ![](/assets/specialization/introduction.gif)
 
 # Procedurally Generated City

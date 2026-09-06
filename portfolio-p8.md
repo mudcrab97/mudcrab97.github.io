@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 {% include youtube.html id="jcXcQGhaoHM" %}
 
 # City of Darkness
