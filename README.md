@@ -39,7 +39,6 @@ A third person platformer made in a custom DirectX 11 engine for the seventh pro
 * * *
 
 [![](/assets/p6/preview.gif)](./portfolio-p6.html)
-{% include youtube.html id="KhlcLQ_UVzo" %}
 
 ## Spite: Threads of Fate
 
