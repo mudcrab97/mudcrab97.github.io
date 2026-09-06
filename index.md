@@ -3,8 +3,6 @@ layout: default
 ---
 # Profile
 
-TEST
-
 I’m a game programming graduate from The Game Assembly,
 Malmö, with a lifelong passion for game development. My
 interests span the full development pipeline, with a particular
