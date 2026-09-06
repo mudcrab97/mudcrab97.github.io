@@ -24,7 +24,7 @@ A fully procedural city made as my specialization project at TGA. Among the feat
 
 A first person horror game made in a custom DirectX 11 engine for the eight and final project at TGA. I focused primarily on improving the engine’s rendering and audio capabilities, to help enhance the horror atmosphere.
 
-[Read more](google.com)
+[Read more](./portfolio-p8.html)
 
 * * *
 
