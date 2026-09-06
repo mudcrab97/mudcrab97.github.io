@@ -14,7 +14,7 @@ systems, and procedural generation.
 # Highlighted Projects
 <br/>
 
-[![](/assets/specialization/introduction.gif)](./portfolio-specialization.html)
+[![](/assets/specialization/preview.gif)](./portfolio-specialization.html)
 
 ## Procedurally Generated City
 
