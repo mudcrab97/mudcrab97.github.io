@@ -1,3 +1,8 @@
+# City of Darkness
+*A blind monster prowls the abandoned city, standing between you and your freedom.*
+
+*Can you sneak silently enough to escape?*
+
 # Key Contributions
 
 ## Portal Culling
