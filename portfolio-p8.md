@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 {% include youtube.html id="jcXcQGhaoHM" %}
 
